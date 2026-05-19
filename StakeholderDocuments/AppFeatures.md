@@ -1,6 +1,6 @@
 # App features
 
-This RSS feed reader demonstrates subscription management as the foundation for a feed reader application.
+MVP RSS reader: a simple RSS/Atom feed reader that demonstrates the most basic capability (add subscriptions) without the complexity of a production-ready application.
 
 ## MVP scope (proof-of-concept version)
 

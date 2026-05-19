@@ -1,6 +1,6 @@
 # Project goals
 
-Build a simple RSS/Atom feed reader. The goal is to demonstrate the most basic capability (managing a subscription list) without the complexity of fetching and displaying feed content.
+MVP RSS reader: a simple RSS/Atom feed reader that demonstrates the most basic capability (add subscriptions) without the complexity of a production-ready application.
 
 ## Purpose
 
